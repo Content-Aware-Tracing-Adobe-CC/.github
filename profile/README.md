@@ -47,7 +47,7 @@ Unlock the Content-Aware Tracing Tool in Adobe Photoshop CC to automatically tra
 ### 🖼 Preview
 
 Content-Aware Tracing Tool creating paths around a subject in Photoshop  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://mblogthumb-phinf.pstatic.net/MjAyMzA3MTFfMjA3/MDAxNjg5MDgwNjcxMDM3.WSGAHJODrCV2k8ezyS4U0aEcLqysmriZf1qzouzlG6Yg.vjADX6_FobHhiCr0HbaQ45kVXHWuoraX_YMH102KlFEg.PNG.whynot31/image.png?type=w800)  
 *Edge-aware tracing powered by Adobe Sensei AI*
 
 ---
